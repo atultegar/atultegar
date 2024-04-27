@@ -9,6 +9,14 @@ Hello there! I'm Atul Tegar, a tech innovator who stands at the forefront of the
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
+- 🔭 Currently, I'm immersed in developing the TBM Tool Dynamo package using C#, aiming to streamline Tunnel Boring Machine workflows in the AEC industry.
+- 🌱 Actively expanding my knowledge base, I'm delving into Event-Driven Microservice Architecture to enhance scalability and efficiency in software solutions.
+- 👯 Eager to collaborate with passionate individuals and teams in the AEC and software development communities, particularly those interested in advancing BIM automation and interoperability.
+- 🤔 Seeking assistance and insights on refining BIM workflows, optimizing software performance, and exploring innovative approaches to data exchange and integration.
+- 💬 Feel free to reach out for discussions on BIM development, Dynamo packages, Azure integration, Power BI analytics, or any related topics you're curious about.
+- 📫 Connect with me via [](https://www.linkedin.com/in/atultegar/).
+  Let's collaborate and innovate together!
+
 ## Certifications and Achievements
 
 - Scrum Master Certified

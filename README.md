@@ -2,13 +2,6 @@
 
 Hello there! I'm Atul Tegar, a tech innovator who stands at the forefront of the Building Information Modeling (BIM) revolution. With over 13 years of experience in BIM, Structural design, and Project Management, I have honed my skills to become a seasoned professional.
 
-- 🔭 I’m currently working on TBM Tool Dynamo package using C#
-- 🌱 I’m currently learning Event-Driven Microservice Architecture
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
 - 🔭 Currently, I'm immersed in developing the TBM Tool Dynamo package using C#, aiming to streamline Tunnel Boring Machine workflows in the AEC industry.
 - 🌱 Actively expanding my knowledge base, I'm delving into Event-Driven Microservice Architecture to enhance scalability and efficiency in software solutions.
 - 👯 Eager to collaborate with passionate individuals and teams in the AEC and software development communities, particularly those interested in advancing BIM automation and interoperability.
